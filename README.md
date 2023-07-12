@@ -1,17 +1,59 @@
-# simple_task
-MK Lakshitha - 23610
+# Simple Task
 
-A new Flutter project.
+[Simple Mobile application using Flutter]
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+```shell
+git clone https://github.com/your-username/project-name.git
+
+###Change to the project directory:
+
+cd project-name
+
+###Install the dependencies:
+
+flutter pub get
+
+###Running the App
+
+Ensure that an Android emulator or a connected device is available.
+
+###Run the app:
+
+shell
+Copy code
+flutter run
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make the necessary changes and commit your code.
+
+4. Push your changes to your forked repository.
+
+5. Submit a pull request to the original repository.
+
+
+
+
+
+
