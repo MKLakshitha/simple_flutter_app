@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot](https://github.com/MKLakshitha/simple_flutter_app/blob/main/Screenshot%202023-07-12%20at%2009.22.02.png)
 
 
 ## Getting Started
@@ -19,6 +19,7 @@ These instructions will help you get a copy of the project up and running on you
 
 
 ```shell
+
 ### Clone the repository:
 
 git clone https://github.com/your-username/project-name.git
@@ -37,10 +38,10 @@ Ensure that an Android emulator or a connected device is available.
 
 ### Run the app:
 
-shell
-Copy code
 flutter run
-Contributing
+
+### Contributing
+
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
