@@ -5,7 +5,7 @@
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## Getting Started
 
@@ -17,24 +17,25 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Installation
 
-1. Clone the repository:
 
 ```shell
+### Clone the repository:
+
 git clone https://github.com/your-username/project-name.git
 
-###Change to the project directory:
+### Change to the project directory:
 
 cd project-name
 
-###Install the dependencies:
+### Install the dependencies:
 
 flutter pub get
 
-###Running the App
+### Running the App
 
 Ensure that an Android emulator or a connected device is available.
 
-###Run the app:
+### Run the app:
 
 shell
 Copy code
