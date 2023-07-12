@@ -22,11 +22,11 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/project-name.git
+git clone (https://github.com/MKLakshitha/simple_flutter_app.git)
 
 ### Change to the project directory:
 
-cd project-name
+cd simple_flutter_app
 
 ### Install the dependencies:
 
